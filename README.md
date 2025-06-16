@@ -67,5 +67,4 @@ ecom360-dashboard/
 
 
 ## 📂 Output
-
-![Image](https://github.com/user-attachments/assets/903d79fe-5b55-4d5c-a48f-6e1992956213)
+[ECOM360 DASHBOARD.pdf](https://github.com/user-attachments/files/20761712/ECOM360.DASHBOARD.pdf)
